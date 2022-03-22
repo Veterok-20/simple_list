@@ -1,3 +1,11 @@
+Данное react-приложение реализует обычную работу со списком: добавление, удаление и редактирование записей.
+npm start  - для запуска приложения из директории, содержащей проект.
+Приложение написано с примененнием библиотеки React, использованы паттерны: render props, context, сторонние компоненты библиотеки material-ui.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
